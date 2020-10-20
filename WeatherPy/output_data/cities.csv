@@ -1,1 +1,1 @@
-City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
